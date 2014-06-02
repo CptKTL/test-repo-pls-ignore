@@ -1,6 +1,12 @@
-test test
+Test
 ==================
 
 asdf
 ----
 
+```c++
+int main()
+{
+    return 0;
+}
+```
